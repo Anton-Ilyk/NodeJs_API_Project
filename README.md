@@ -62,7 +62,6 @@ The API logic and endpoints have been designed to pass twenty specific test case
 ## 📂 Folder Structure 
 * `/models` — Mongoose schemas (User, Post, Interaction).
 * `/routes` — API endpoint definitions.
-* `/middleware` — JWT verification and Joi validation logic.
 * `app.js` — Application entry point.
 
 ---
